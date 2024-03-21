@@ -1,6 +1,13 @@
 {
-  "name": "MAPS",
+  "name": "maps",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "buffer": "^5.5.0||^6.0.0"
+  },
+  "dependencies": {
+    "@types/google.maps": "^3.55.5"
+  }
 }
