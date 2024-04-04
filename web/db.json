@@ -1,64 +1,14 @@
 {
   "users": [
     {
-      "name": "myname",
-      "age": 20,
-      "id": 1
-    },
-    {
-      "id": "006d",
-      "name": "new record",
+      "id": 1,
+      "name": "newer name",
       "age": 0
     },
     {
-      "id": "7c33",
       "name": "new record",
-      "age": 0
-    },
-    {
-      "id": "58b2",
-      "name": "new record",
-      "age": 0
-    },
-    {
-      "id": "9768",
-      "name": "new record",
-      "age": 0
-    },
-    {
-      "id": "fbf9",
-      "name": "new record",
-      "age": 0
-    },
-    {
-      "id": "6764",
-      "name": "new record",
-      "age": 0
-    },
-    {
-      "id": "9848",
-      "name": "new record",
-      "age": 0
-    },
-    {
-      "id": "6d25",
-      "name": "new record",
-      "age": 0
-    },
-    {
-      "id": "f3c6",
-      "name": "new record",
-      "age": 0
-    },
-    {
-      "id": "99a0",
-      "name": "new record",
-      "age": 0
-    },
-    {
-      "id": "a523",
-      "name": "new record",
-      "age": 0
+      "age": 0,
+      "id": 2
     }
   ]
 }
